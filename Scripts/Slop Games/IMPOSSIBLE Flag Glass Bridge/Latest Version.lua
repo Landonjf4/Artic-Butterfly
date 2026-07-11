@@ -1,4 +1,4 @@
--- Script by Landonjf4, Version 1.0.0
+-- Script by Landonjf4, Version 1.0.01
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
