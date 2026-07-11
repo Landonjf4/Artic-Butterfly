@@ -1,5 +1,4 @@
 -- Script by Landonjf4, Version 1.0.0
--- Use on game: https://www.roblox.com/games/123008238865653/IMPOSSIBLE-Flag-Glass-Bridge
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
